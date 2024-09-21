@@ -17,7 +17,7 @@
 
 ###
 
-<h4 align="left">My Tech Stack</h4>
+<h3 align="left">My Tech Stack</h3>
 
 ###
 
@@ -51,9 +51,9 @@
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
 
-##
+###
 
-<h4 align="left">Connect with me</h4>
+<h3 align="left">Connect with me</h3>
 
 ###
 
@@ -75,7 +75,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/tilakjain619/count.svg?"  />
 </div>
 
