@@ -52,4 +52,8 @@
   <img src="https://profile-counter.glitch.me/tilakjain619/count.svg?"  />
 </div>
 
-###
+### GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tilakjain619&theme=onedark&column=7&margin-w=15&margin-h=15" />
+</p>
