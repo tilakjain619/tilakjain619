@@ -44,14 +44,6 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/tilakjain619/count.svg?"  />
-</div>
-
 ### GitHub Trophies
 
 <p align="center">
