@@ -1,12 +1,9 @@
-<h2 align="left">Hi, I'm Tilak 👋</h2>
+## About Me
 
-###
+I'm Tilak Jain, a full‑stack developer and MCA student passionate about building technology that creates real impact. I specialize in designing and developing scalable, user‑friendly platforms that solve everyday problems - from healthcare assistants powered by OCR and AI to smart budget tracking and real estate investment grading systems. My focus is always on accessibility, performance, and making complex ideas approachable for everyone.
 
-<h3 align="left">About me</h3>
+Beyond code, I thrive in open‑source communities and content creation. I’ve mentored first‑time contributors, streamlined onboarding with clear documentation, and built a 350K+ Instagram community where I share beginner‑friendly web development tutorials. Whether it’s guiding contributors, deploying tools that improve lives, or making tech accessible to non‑technical audiences, I’m driven by impact, collaboration, and continuous learning.
 
-###
-
-<p align="left">I'm a web developer and MCA student from India. I'm passionate about web development, and I thrive on creating user-friendly and engaging experiences.<br><br>In my free time, I love to work on my personal projects and learn new technologies. This constant learning keeps me excited and helps me push the boundaries of what's possible on the web.</p>
 
 ###
 
