@@ -1,6 +1,6 @@
 ## About Me
 
-Full-stack developer and MCA student focused on building **scalable**, **clean**, and **impact-driven** digital experiences. Passionate about simplifying complex ideas, improving accessibility, and creating technology that genuinely helps people.
+Software developer focused on building **scalable**, **clean**, and **impact-driven** digital experiences. Passionate about simplifying complex ideas, improving accessibility, and creating technology that genuinely helps people.
 
 Active in open-source and community learning, contributing to documentation, workflows, and beginner-friendly education. Always exploring better ways to build, collaborate, and deliver meaningful value through software.
 
@@ -62,7 +62,6 @@ Active in open-source and community learning, contributing to documentation, wor
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge"/>
 </p>
 
----
 <!--
 ## Stats
 
