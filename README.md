@@ -34,4 +34,4 @@ Active in open-source and community learning, contributing to documentation, wor
 
 ## Connect With Me
 
-[LinkedIn](https://linkedin.com/in/tilakjain/) · [Email](mailto:jaintilak08@gmail.com)
+[LinkedIn](https://linkedin.com/in/tilakjain/) · [Email](mailto:jaintilak08@gmail.com) · [Instagram](https://instagram.com/coding_dev_)
